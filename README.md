@@ -5,7 +5,7 @@
   # 🕸️ Nexus Squad Intelligence
   **AI-Powered Criminal Network Analysis & Kingpin Detection**
   
-  *Built by Team Yugen Dynamics (Doom Destroyers)*
+  *Built by Team Nexus Sqad*
 
   <!-- Dynamic Shields.io Badges -->
   <p align="center">
@@ -56,7 +56,7 @@ graph TD
     D <-->|Cypher Queries| E{⚙️ FastAPI Backend}:::process
     E <-->|JSON Payload| F[💻 React & Cytoscape.js]:::ui
 ```
-*(Note: GitHub natively supports Mermaid.js rendering, so this code block will automatically appear as a beautiful, dark-mode flowchart when viewed on your repo!)*
+---------------------------------------------------------------
 
 ---
 
@@ -102,7 +102,7 @@ cd frontend
 npm install
 npm start
 ```
-*The Yugen Dynamics dashboard will automatically launch at `http://localhost:3000`.*
+*The NEXUS SQAD dashboard will automatically launch at `http://localhost:3000`.*
 
 ---
 
@@ -120,5 +120,5 @@ Here, you can test the Cypher queries, view the Pydantic schemas (e.g., `Kingpin
 <div align="center">
   <p><b>"Striking the root, not the leaves."</b></p>
   <i>Conceptualized for Smart India Hackathon (SIH) 2026</i><br>
-  <i>Yugen Dynamics / Doom Destroyers</i>
+  <i>NEXUS SQAD</i>
 </div>
